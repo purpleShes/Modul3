@@ -46,7 +46,8 @@
                     android:layout_height="38dp"
                     android:background="@drawable/button"
                     android:text="@string/button"
-                    android:textColor="@android:color/white" />
+                    android:textColor="@android:color/white"
+                    android:textAllCaps="false"/>
             </LinearLayout>
 
             <View
