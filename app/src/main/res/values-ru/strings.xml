@@ -1,0 +1,15 @@
+<resources>
+    <string name="toolbar_name">Задание: СЕ-1257218</string>
+    <string name="line1">Комунальное хозяйство</string>
+    <string name="line2">Создано</string>
+    <string name="line3">Зарегистрировано</string>
+    <string name="line4">Испольнить до</string>
+    <string name="line5">Ответственный</string>
+    <string name="button">В работе</string>
+    <string name="date">27 января 2018</string>
+    <string name="vidpovid">Днепрский МВК</string>
+    <string name="central_text">В том, что в Питере при каждом задержании вора в законе у него находят пакетик с наркотиками, может быть и нет ничего удивительного... Но почему всегда один и тот же пакетик?</string>
+    <string name="action1">Поиск</string>
+    <string name="action2">Сменить язык</string>
+
+</resources>

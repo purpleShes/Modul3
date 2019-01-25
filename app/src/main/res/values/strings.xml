@@ -1,0 +1,14 @@
+<resources>
+    <string name="toolbar_name">Завдання: СЕ-1257218</string>
+    <string name="line1">Комунальне господарство</string>
+    <string name="line2">Створено</string>
+    <string name="line3">Зареєстровано</string>
+    <string name="line4">Виконати до</string>
+    <string name="line5">Відповідальний</string>
+    <string name="button">В роботі</string>
+    <string name="date">27 січня 2018</string>
+    <string name="vidpovid">Дніпровський МВК</string>
+    <string name="central_text">Колись давно, не з моєї памяті, мабуть, ще й батьків і дідів наших не було на світі, жив собі убогий чоловік з жінкою, а у них був один син, тай той не такий як треба: таке ледащо той одинчик, що господи!</string>
+    <string name="action1">Пошук</string>
+    <string name="action2">Змінити мову</string>
+</resources>
